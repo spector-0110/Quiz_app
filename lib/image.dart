@@ -21,7 +21,7 @@ class ImageViewer extends StatelessWidget {
             height: 30,
           ),
           const Text(
-            "Fun Learn Flutter",
+            "Fun Learn",
             style: TextStyle(
                 fontSize: 28,
                 color: Colors.white60,

@@ -46,7 +46,7 @@ class _QuestionScreenState extends State<QuestionScreen> {
               textAlign: TextAlign.center,
             ),
             const SizedBox(
-              height: 30,
+              height: 40,
             ),
             ...currentQuestion.getSuffled().map((answere) {
               return AnswereButton(
